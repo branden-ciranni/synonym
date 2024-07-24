@@ -11,6 +11,13 @@ This app will be updated in real time as updates are made to this github reposit
 3. Compare the Datasets
 4. Download the results!
      - Hover over the top right of the table - there is a download button!
+  
+Future State:
+
+1. Select Key Columns in Each Dataset
+2. More Comprehensive Comparisons Rather than just the simple diff
+3. Thresholds for Numeric Column Comparisons
+4. GenAI Summary of Results
 
 Below is a screenshot of the app vision - compare two datasets side by side using streamlit.
 
