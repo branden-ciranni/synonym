@@ -12,7 +12,8 @@ st.subheader('Stop seeing ghosts, start seeing data!')
 
 st.markdown('''
 :construction: **Under Construction** :construction:
-This app is still under construction. We're working hard to let you compare datasets with ease. :hammer_and_wrench:
+
+This app is still in the works. We're working hard to let you compare datasets with ease. :hammer_and_wrench:
 ''')
 
 st.markdown('---')
