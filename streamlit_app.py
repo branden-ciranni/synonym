@@ -10,6 +10,11 @@ st.set_page_config(page_title='Synonym', page_icon=':ghost:', layout='wide', ini
 st.title(':ghost: Synonym')
 st.subheader('Stop seeing ghosts, start seeing data!')
 
+st.markdown('''
+:construction: **Under Construction** :construction:
+This app is still under construction. We're working hard to let you compare datasets with ease. :hammer_and_wrench:
+''')
+
 st.markdown('---')
 st.subheader('Load Datasets')
 
