@@ -4,7 +4,8 @@
 
 https://synonym.streamlit.app/
 
-![synonym_gif](https://github.com/user-attachments/assets/b66939de-4c61-4600-b602-118f7b85c8dc)
+![synonym_gif_2](https://github.com/user-attachments/assets/9bfae2a8-3828-42cd-8fa2-489892d64ce5)
+
 
 This app will be updated in real time as updates are made to this github repository!
 
