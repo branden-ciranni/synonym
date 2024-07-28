@@ -4,6 +4,8 @@
 
 https://synonym.streamlit.app/
 
+![synonym_gif](https://github.com/user-attachments/assets/b66939de-4c61-4600-b602-118f7b85c8dc)
+
 This app will be updated in real time as updates are made to this github repository! Right now, you can:
 
 1. Upload a left and a right dataset
@@ -17,8 +19,3 @@ Future State:
 1. Select Key Columns in Each Dataset
 2. More Comprehensive Comparisons Rather than just the simple diff
 3. Thresholds for Numeric Column Comparisons
-4. GenAI Summary of Results
-
-Below is a screenshot of the app vision - compare two datasets side by side using streamlit.
-
-![Screenshot](assets/app_screenshot.png "App Screenshot")
